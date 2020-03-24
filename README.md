@@ -2,7 +2,7 @@
 记录一些常用的Git命令
 
 ### 一：环境准备
-1、安装git客户端到自己的本地电脑 不同系统各自安装，通过git --version来确认是否安装完成，Windows通过右键查看是否多出git bash选项
+1、安装git客户端到自己的本地电脑 不同系统各自安装，通过git --version来确认是否安装完成，Windows通过右键查看是否多出git bash选项\n
 
 2、在github上注册一个账号
 
